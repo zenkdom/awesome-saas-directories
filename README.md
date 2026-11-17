@@ -25,6 +25,7 @@ A curated list of top best directories and platforms to launch and promote your 
 
 ## 🥳 Startup and Maker Communities
 
+- [AI-Vision](https://ai-vision.top) - Product discovery and indexation platform for the AI era and Generative Engine Optimization (GEO).
 - [BetaList](https://www.betalist.com/) - Showcase early-stage startups.
 - [Indie Hackers](https://www.indiehackers.com/) - Community of bootstrapped SaaS founders.
 - [StartupBase](https://startupbase.io/) - A directory for makers to showcase startups.
